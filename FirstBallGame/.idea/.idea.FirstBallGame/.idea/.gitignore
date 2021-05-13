@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.FirstBallGame.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\UnityFolder\FirstBallGame\FirstBallGame\.idea\.idea.FirstBallGame\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
